@@ -1,7 +1,7 @@
 {
-  "packVersion": "1.1.0",
+  "packVersion": "1.2.0",
   "minLauncherVersion": "1.0.0",
-  "packUrl": "https://github.com/NandoEstebanEC/GameForge/releases/download/v1.1.0/galacticforge-1.1.0.zip",
-  "sha256": "ee7a6c415268ba268ed76221838f1a0962079b4340c465429fc8161a1d57b4d6",
-  "sizeBytes": 1520294103
+  "packUrl": "https://github.com/NandoEstebanEC/GameForge/releases/download/v1.2.0/galacticforge-1.2.0.zip",
+  "sha256": "a4b2cefa02398becccdc10401f1b8862934d58961754eb86962e821e1a30f57b",
+  "sizeBytes": 1523397818
 }
