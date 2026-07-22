@@ -1,7 +1,7 @@
 {
-  "packVersion": "1.3.3",
+  "packVersion": "1.3.4",
   "minLauncherVersion": "1.0.0",
-  "packUrl": "https://github.com/NandoEstebanEC/GameForge/releases/download/v1.3.3/galacticforge-1.3.3.zip",
-  "sha256": "583b50e459a2a559c0f8d9eeb3c87e355b9bf70898bfcb138c0c986444158e45",
-  "sizeBytes": 1523826316
+  "packUrl": "https://github.com/NandoEstebanEC/GameForge/releases/download/v1.3.4/galacticforge-1.3.4.zip",
+  "sha256": "a641a5f8b608bedca503595b71b7d6409b04105e2ab311b057852eb56f18cc3e",
+  "sizeBytes": 1523826363
 }
