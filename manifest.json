@@ -8,6 +8,6 @@
   "launcherUrl": "https://github.com/NandoEstebanEC/GameForge/releases/download/v1.0.0/GalacticForge.exe",
   "launcherSha256": "f341c1ffec8c32fa0823e6595dddd717dabdca72c0e5639ec70a6cfc9312abcd",
   "launcherMacUrl": "https://github.com/NandoEstebanEC/GameForge/releases/download/v1.0.0/GalacticForge-mac.zip",
-  "launcherMacSha256": "127706f9303722a2ab614e0de6ee8c14534eb93dbfa5df4e660970556555085d",
-  "launcherMacBuildId": "1.0.0-20260814012727-63191f1"
+  "launcherMacSha256": "5da6ac8b31cb4de1aa978787b50e18378a3e0e429461561b51aa68b90755b419",
+  "launcherMacBuildId": "1.0.0-20260814030030-a73b831"
 }
