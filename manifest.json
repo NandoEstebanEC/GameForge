@@ -2,8 +2,8 @@
   "packVersion": "1.0.0",
   "minLauncherVersion": "1.0.0",
   "packUrl": "https://github.com/NandoEstebanEC/GameForge/releases/download/v1.0.0/galacticforge-1.0.0.zip",
-  "sha256": "004a27e9c1a7e0d1ea0a3f01c943a1978f77c525d180b8c158224d948975fe55",
-  "sizeBytes": 490312024,
+  "sha256": "3deb6c69f541e33dc030bb9ef68a5fd48111871ebafd18cbcefa1d15b70bf8d3",
+  "sizeBytes": 490301461,
   "modJars": [
     "appleskin-neoforge-mc1.21-3.0.9.jar",
     "architectury-13.0.11-neoforge.jar",
@@ -89,7 +89,7 @@
   ],
   "launcherVersion": "1.0.0",
   "launcherUrl": "https://github.com/NandoEstebanEC/GameForge/releases/download/v1.0.0/GalacticForge.exe",
-  "launcherSha256": "f341c1ffec8c32fa0823e6595dddd717dabdca72c0e5639ec70a6cfc9312abcd",
+  "launcherSha256": "4b4ae51a2e6349675a5df551388a01cd0abff4240e77ff162b42cfa22160aaee",
   "launcherMacUrl": "https://github.com/NandoEstebanEC/GameForge/releases/download/v1.0.0/GalacticForge-mac.zip",
   "launcherMacSha256": "5da6ac8b31cb4de1aa978787b50e18378a3e0e429461561b51aa68b90755b419",
   "launcherMacBuildId": "1.0.0-20260814030030-a73b831"
