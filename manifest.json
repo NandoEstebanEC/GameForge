@@ -2,8 +2,8 @@
   "packVersion": "1.0.0",
   "minLauncherVersion": "1.0.0",
   "packUrl": "https://github.com/NandoEstebanEC/GameForge/releases/download/v1.0.0/galacticforge-1.0.0.zip",
-  "sha256": "64ca09154b245716c7a96088eccc91e1f832f9f4734f212cd1e1922803908a06",
-  "sizeBytes": 490301461,
+  "sha256": "49741d73bc4c0abb50f1d600e1576797e45422baddfdfce7f1fb0730b81bafd2",
+  "sizeBytes": 486404272,
   "modJars": [
     "appleskin-neoforge-mc1.21-3.0.9.jar",
     "architectury-13.0.11-neoforge.jar",
